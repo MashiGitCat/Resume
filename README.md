@@ -1,4 +1,4 @@
 # Resume
 Resme-Maheshi-Nawarathna
 # 
-Contact me for more details!
+<strong> Contact me for more details! <strong/>
